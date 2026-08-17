@@ -18,6 +18,10 @@ android.minapi = 21
 android.api = 33
 android.ndk = 25b
 android.sdk = 34
+android.accept_sdk_license = True
+
+# ── Python-for-Android Version Lock ───────────────────────────────────────────
+p4a.branch = v2024.01.21
 
 android.archs = arm64-v8a
 
