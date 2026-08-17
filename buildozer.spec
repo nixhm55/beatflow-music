@@ -11,7 +11,7 @@ source.include_exts = py,png,jpg,kv,atlas
 version = 1.0.0
 
 # ── Dependencies ──────────────────────────────────────────────────────────────
-requirements = python3,kivy==2.3.0,kivymd==1.2.0,pillow,android
+requirements = python3,kivy==2.3.0,kivymd==1.2.0,pillow
 
 # ── Android target ────────────────────────────────────────────────────────────
 android.minapi = 21
