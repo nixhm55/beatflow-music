@@ -11,11 +11,11 @@ source.include_exts = py,png,jpg,kv,atlas
 version = 1.0.0
 
 # ── Dependencies ──────────────────────────────────────────────────────────────
-requirements = python3,kivy==2.3.0,kivymd==1.2.0,pillow
+requirements = python3,kivy==2.3.0,kivymd==1.2.0,pillow==10.2.0
 
 # ── Android target ────────────────────────────────────────────────────────────
 android.minapi = 21
-android.api = 34
+android.api = 33
 android.ndk = 25b
 android.sdk = 34
 
